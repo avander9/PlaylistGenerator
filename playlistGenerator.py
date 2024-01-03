@@ -3,8 +3,6 @@ import sys
 
 
 def generate_playlist_m3u(directory):
-    files = []
-
     try:
         files = [file for file in os.listdir(directory) if os.path.isfile(os.path.join(directory, file))]
     except FileNotFoundError:
