@@ -1,11 +1,6 @@
 # Playlist Generator  
   
 This script enables the creation of M3U playlists for video files within a specified directory. The script scans the provided directory for video files (with common extensions like .mp4, .mkv, .avi, .mov) and generates a playlist file (playlist.m3u) containing the relative paths of these video files.  
-  
-Usage:  
-
-    python playlistGenerator.py /path/to/directory  
-
 
 How to Use:  
 
