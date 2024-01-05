@@ -244,3 +244,4 @@ cython_debug/
 .idea/modules.xml
 .idea/PlaylistGenerator.iml
 .idea/vcs.xml
+/.idea/.name
